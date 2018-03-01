@@ -1,0 +1,203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alex/vg/Vagrantfile",
+		"/Users/alex/vagrant/Vagrantfile",
+		"/Users/alex/www/vids/app/Parsers/CoubParser.php",
+		"/Users/alex/www/vids/app/Parsers/some.php",
+		"/Users/alex/www/vids/data/database/vids.csv",
+		"/Users/alex/Documents/аудит морфинсаферинг.ком.txt",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/S.T.A.L.K.E.R. Clear Sky.app/Contents/Resources/drive_c/users/Public/Documents/stalker-stcs/savedgames/alex_quicksave.sav",
+		"/Users/alex/Music/All_music/vk/all_music.html",
+		"/Users/alex/Dev/m/viva/katrina238426/index.html",
+		"/Users/alex/Documents/yostudio.com.ua.txt",
+		"/Users/alex/Documents/TASKLIST.TXT",
+		"/private/var/folders/5q/1jlqdkl90gdf8f8g_w35d13m0000gn/T/_dc1111574504/script_20160126165135.js",
+		"/Users/alex/Documents/app.js",
+		"/private/var/folders/5q/1jlqdkl90gdf8f8g_w35d13m0000gn/T/_dc1238429363/sendmail.php",
+		"/Users/alex/www/voxan/views/benefits.php",
+		"/Users/alex/www/voxan/views/shop_block.php",
+		"/Users/alex/www/voxan/views/shop.php",
+		"/Users/alex/www/voxan/views/servicio.php",
+		"/Users/alex/www/voxan/views/reviews.php",
+		"/Users/alex/www/voxan/views/sidebar.php",
+		"/Users/alex/Documents/Перевод 23.12.15.txt",
+		"/Users/alex/www/voxan/views/partners.php",
+		"/Users/alex/www/voxan/views/news.php",
+		"/Users/alex/www/voxan/views/isolation.php",
+		"/Users/alex/www/voxan/views/howto.php",
+		"/Users/alex/www/voxan/views/prices.php",
+		"/Users/alex/www/voxan/views/reparacion.php",
+		"/Users/alex/www/voxan/views/home.php",
+		"/Users/alex/www/voxan/views/header.php",
+		"/Users/alex/www/voxan/views/gallery.php",
+		"/Users/alex/www/voxan/views/email.php",
+		"/Users/alex/www/voxan/views/footer.php",
+		"/Users/alex/www/voxan/views/certificates.php",
+		"/Users/alex/www/voxan/views/calc.php",
+		"/Users/alex/www/voxan/views/ceilings.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{",
+			"mp3",
+			"#project"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "BaseModel.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

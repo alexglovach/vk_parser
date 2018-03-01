@@ -1,0 +1,23 @@
+#!/usr/bin/env php
+<?php
+require_once __DIR__ . '/vendor/autoload.php';
+
+$env = require 'config/env.php';
+$services = require 'config/services.php';
+$container = new League\Container\Container;
+
+
+// Services to Container
+foreach ($services as $service => $val) {
+    $container->share($service, $val)
+        ->withArgument($env)
+        ->withArgument($container);
+}
+
+
+$cli = new \Symfony\Component\Console\Application();
+$commands = require 'config/commands.php';
+foreach ($commands as $command) {
+    $cli->add($command->setContainer($container));
+}
+$cli->run();
